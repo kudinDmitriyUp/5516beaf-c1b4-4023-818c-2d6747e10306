@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -219,7 +219,6 @@ export default function Page() {
               role: "Regular Client",
               company: "Marketing Professional",
               rating: 5,
-              testimonial: "Sara's attention to detail is amazing! My nails always look perfect and last for weeks. The salon is so relaxing and clean.",
               imageSrc: "https://pixabay.com/get/g62ebd6027756c0d178769dbb9a3f69cc87a3b4d0439578868c1dbbe9f473299f4f89b1b4561c20a98aef71fc6d69cfa5_1280.jpg",
               imageAlt: "Jessica Martinez testimonial"
             },
@@ -229,7 +228,6 @@ export default function Page() {
               role: "Loyal Customer",
               company: "Business Owner",
               rating: 5,
-              testimonial: "I've been coming here for years and wouldn't go anywhere else. The quality of work and customer service is outstanding.",
               imageSrc: "https://pixabay.com/get/g0c587bdfb163b18e8f509b4c737c127cec99a886b5ca75a3067fe692db64aaac4e5afd2577215925eb1124b763d4b9db1fe0105f4adb0de1cae4fc83dcdaf0c6_1280.jpg",
               imageAlt: "Ashley Thompson testimonial"
             },
@@ -239,7 +237,6 @@ export default function Page() {
               role: "Happy Client",
               company: "Teacher",
               rating: 5,
-              testimonial: "The nail art designs are incredible! Sara always creates exactly what I envision and the results exceed my expectations.",
               imageSrc: "https://pixabay.com/get/gd6ed1be91b24568ac424d8b0e3f40bd4c61ac21676d8d098983f834dc70552c57ff06ef083d1a6f1aaa7ae901a1a87e11a5f440183613bcd88415bca3d7f1227_1280.jpg",
               imageAlt: "Maria Rodriguez testimonial"
             },
@@ -249,7 +246,6 @@ export default function Page() {
               role: "Satisfied Customer",
               company: "Nurse",
               rating: 5,
-              testimonial: "Professional, friendly service in a beautiful atmosphere. My pedicures here are the most relaxing part of my month!",
               imageSrc: "https://pixabay.com/get/gc951e9948ebde360f7aaeaf56e876faf4384f06535ec49129e8f24ea105f8586ee5ab70b3f57614f59c51ef3ee6f8b60bef87fe34725489c0fb9c294a3f6c5e2_1280.jpg",
               imageAlt: "Emily Davis testimonial"
             }
